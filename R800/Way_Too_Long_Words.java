@@ -1,3 +1,4 @@
+package R800;
 import java.util.Scanner;
 public class Way_Too_Long_Words {
     public static void main(String args[]){

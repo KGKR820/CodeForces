@@ -1,3 +1,4 @@
+package R800;
 import java.util.Scanner;
 public class WaterMelon {
     public static void main(String args[]){
